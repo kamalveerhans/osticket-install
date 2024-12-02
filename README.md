@@ -30,33 +30,36 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/EWJkqCt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an azure virtual machine running windows 10.
 </p>
 <p>
-Created an azure virtual machine running windows 10.
+<img src="https://imgur.com/EWJkqCt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+
+<p>
+Log into the VM with remote desktop.
+</p>
 <p>
 <img src="https://imgur.com/AC1LQr3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
+
 <p>
-Logged into the VM with remote desktop.
+Within the VM download the osTicket-Installation-Files.zip
+</p>
+<p>
+<img src="https://imgur.com/dWsx3eb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/ZdTlxYJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe, MySQL 5.5.62, HeidiSQL and osTicket v1.15.8
 </p>
 <p>
-Within the VM I downloaded the osTicket-Installation-Files.zip
-</p>
-<br />
-<p>
-<img src="https://imgur.com/AGO9zBB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-From the “osTicket-Installation-Files” folder, I installed VC_redist.x86.exe, MySQL 5.5.62, HeidiSQL and osTicket v1.15.8
+<img src="https://imgur.com/quvgL5U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
